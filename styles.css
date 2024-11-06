@@ -16,12 +16,17 @@
 /* Navigation Bar */
 .navbar {
     background-color: white;
-    color: white;
     padding: 10px 0;
     text-align: center;
     position: sticky;
     top: 0;
     z-index: 1000;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        background-color: white !important; /* Force white background on mobile */
+    }
 }
 
 .navbar ul {
