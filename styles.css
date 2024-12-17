@@ -6,6 +6,13 @@
     font-style: normal;
   }
 
+.montserrat-200 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 654;
+    font-style: normal;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -93,4 +100,9 @@ h2 {
 
 p {
     margin-bottom: 10px;
+}
+
+p.artheader {
+    font-family: "Montserrat";
+    margin-left:1.2%;
 }
