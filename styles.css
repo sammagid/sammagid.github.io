@@ -1,3 +1,7 @@
+:root {
+    --accent-color: #4ea6e1; /* Define a color variable */
+  }
+
 /* importing fonts */
 .work-sans {
     font-family: "Work Sans", sans-serif;
@@ -51,12 +55,12 @@
 }
 
 .navbar a:hover {
-    color: #ffc869;
+    color: var(--accent-color);
 }
 
 /* Hero Section with Circular Centered Image */
 .hero-section {
-    background-color: #ffc869;
+    background-color: var(--accent-color);
     color: white;
     text-align: center;
     padding: 50px 20px;
@@ -95,7 +99,7 @@ h1 {
 h2 {
     font-size: 2.5em;
     margin-bottom: 20px;
-    color: #ffc869;
+    color: var(--accent-color);
 }
 
 p {
