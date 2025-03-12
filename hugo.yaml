@@ -38,7 +38,7 @@ Menus:
     - identifier: thesis
       name: Thesis
       title: My Thesis Work
-      url: /artwork
+      url: http://sysnet.cs.williams.edu/~25sm39/
       weight: 2
     - identifier: art
       name: Artwork
@@ -140,7 +140,7 @@ params:
     intro: "Hi, my name is"
     title: "Sam."
     subtitle: "I am a computer science student and developer."
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    content: "A passionate, creative programmer. Senior CS major at Williams College. Looking for software engineering jobs around NYC, Cambridge, and San Francisco."
     image: /images/sam.jpg
     bottomImage:
       enable: true
