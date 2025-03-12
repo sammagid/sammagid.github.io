@@ -141,7 +141,7 @@ params:
     intro: "Hi, my name is"
     title: "Sam."
     subtitle: "I am a computer science student and developer."
-    content: "A passionate, creative programmer. Senior CS major at Williams College. Looking for software engineering jobs around NYC, Cambridge, and San Francisco."
+    content: "A passionate, creative programmer. Senior computer science major at Williams College. Looking for software engineering jobs around NYC, Cambridge, and San Francisco."
     image: /images/sam.jpg
     bottomImage:
       enable: true
