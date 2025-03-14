@@ -37,4 +37,4 @@ To address this issue, I've been working with Professors Jeannie Albrecht and Ma
   <figcaption>My current tool for navigating the model's latent space</figcaption>
 </figure>
 
-Updates to my thesis project will be posted on this page. Feel free to reach out to me [here](mailto:contactsammagid@gmail.com?body=(I%20use%20this%20proxy%20email%20to%20avoid%20spam%20caused%20by%20email%20scraping.)) with any questions!
+Updates to my thesis project will be posted on this page. You can find the slides from my thesis proposal presentation [here](/presentation.pdf). Feel free to reach out with any questions!
