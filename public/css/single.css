@@ -30,6 +30,7 @@
 #single .page-content img {
     max-width: 100%;
     border-radius: 1rem;
+    padding-top: 20px;
 }
 
 #single .page-content a {
@@ -324,6 +325,7 @@
 figcaption {
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 15px;
     color: rgb(115, 115, 115);
 }
 
