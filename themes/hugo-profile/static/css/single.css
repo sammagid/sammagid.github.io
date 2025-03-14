@@ -2,12 +2,12 @@
     padding: 60px 0;
     line-height: 1.7em;
     font-size: 17px;
-    font-family: Roboto;
 }
 
 #single .title > h1 {
     opacity: 0.8;
     color: var(--text-color) !important;
+    font-weight: 700;
     font-family: Alata;
 }
 
