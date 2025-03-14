@@ -319,4 +319,8 @@
     transition: width .2s;
 }
 
+figcaption {
+    text-align: center;
+}
+
 /* Singlepage scroll progress end */

@@ -38,7 +38,7 @@ Menus:
     - identifier: thesis
       name: Thesis
       title: My Thesis Work
-      url: http://sysnet.cs.williams.edu/~25sm39/
+      url: /thesis
       weight: 2
     - identifier: art
       name: Artwork
