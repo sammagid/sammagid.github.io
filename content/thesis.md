@@ -6,7 +6,7 @@ enableReadingTime: false
 draft: false
 ---
 
-According to Karen Cheng's *Designing Type,* the number of existing typefaces is probably around 300,000. Compared to the first machines which allowed users to choose between a handful of fonts a little over 40 years ago, this is a dramatic increase; however, the method by which users choose between these fonts has, suprisingly, remained almost entirely static.
+According to Karen Cheng's *Designing Type,* there currently exist around 300,000 typefaces. Compared to the handful of fonts accessible to users on the first machines which allowed users to pick a typeface, this is a dramatic increase. Surprisingly, however, the method by which users choose between these fonts has remained almost entirely static.
 
 <figure>
   <img
