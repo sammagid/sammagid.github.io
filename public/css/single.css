@@ -39,7 +39,7 @@
     color: var(--text-link-color) !important;
 }
 
-#single .page-content a::after {
+/* #single .page-content a::after {
     content: "";
     display: block;
     width: 0px;
@@ -52,7 +52,7 @@
 
 #single .page-content a:hover::after, #single .page-content a:focus::after, #single .page-content a:active::after {
     width: 100%;
-}
+} */
 
 #single .page-content h1, #single .page-content h2, #single .page-content h3, #single .page-content h4, #single .page-content h5, #single .page-content h6 {
     color: var(--text-link-color) !important;
