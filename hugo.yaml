@@ -1,7 +1,7 @@
 baseURL: "localhost"
 languageCode: "en-us"
 title: "Sam Magid"
-theme: hugo-profile
+# theme: hugo-profile
 
 outputs:
   home:
